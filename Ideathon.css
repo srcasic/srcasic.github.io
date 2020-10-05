@@ -1,0 +1,34 @@
+.u-section-1 {background-image: linear-gradient(#68086f, #db545a)}
+.u-section-1 .u-sheet-1 {min-height: 305px}
+.u-section-1 .u-text-1 {margin: 60px auto} 
+
+@media (max-width: 575px){ .u-section-1 .u-sheet-1 {min-height: 262px}
+.u-section-1 .u-text-1 {margin-left: 0; margin-right: 0} }.u-section-2 .u-sheet-1 {min-height: 500px}
+.u-section-2 .u-text-1 {font-size: 2.25rem; margin: 93px auto 0}
+.u-section-2 .u-text-2 {margin: 20px auto 0 1px}
+.u-section-2 .u-text-3 {font-size: 1.875rem; margin: 28px 47px 60px} 
+
+@media (max-width: 575px){ .u-section-2 .u-text-3 {font-size: 1rem} }.u-section-3 .u-sheet-1 {min-height: 703px}
+.u-section-3 .u-text-1 {font-size: 2.25rem; margin: 47px auto 0}
+.u-section-3 .u-image-1 {width: 185px; height: 185px; margin: 116px auto 0 365px}
+.u-section-3 .u-image-2 {width: 173px; height: 173px; margin: -159px auto 0 110px}
+.u-section-3 .u-image-3 {width: 179px; height: 179px; margin: -168px 336px 0 auto}
+.u-section-3 .u-image-4 {width: 179px; height: 179px; margin: -179px 110px 0 auto}
+.u-section-3 .u-text-2 {font-size: 1.5rem; margin: 21px 155px 0 auto}
+.u-section-3 .u-text-3 {font-size: 1.5rem; margin: -25px 394px 0 auto}
+.u-section-3 .u-text-4 {font-size: 1.5rem; margin: -26px auto 0 113px}
+.u-section-3 .u-text-5 {font-size: 1.5rem; margin: -26px auto 0 381px}
+.u-section-3 .u-btn-1 {border-style: none; font-weight: 700; text-transform: uppercase; font-size: 0.875rem; letter-spacing: 1px; margin: 82px auto 60px} 
+
+@media (max-width: 767px){ .u-section-3 .u-image-1 {margin-left: 355px} }
+
+@media (max-width: 575px){ .u-section-3 .u-sheet-1 {min-height: 1390px}
+.u-section-3 .u-image-1 {margin-top: 50px; margin-left: auto}
+.u-section-3 .u-image-2 {margin-top: 362px; margin-left: auto}
+.u-section-3 .u-image-3 {margin-top: -433px; margin-right: auto; margin-left: 81px}
+.u-section-3 .u-image-4 {margin-top: 341px; margin-right: auto}
+.u-section-3 .u-text-2 {width: auto; margin-top: 16px; margin-right: auto; margin-left: 123px}
+.u-section-3 .u-text-3 {width: auto; margin-top: -558px; margin-right: auto; margin-left: 139px}
+.u-section-3 .u-text-4 {width: auto; margin-top: 240px; margin-left: auto}
+.u-section-3 .u-text-5 {width: auto; margin-top: -548px; margin-left: 94px}
+.u-section-3 .u-btn-1 {margin-top: 850px; margin-left: 48px} }
