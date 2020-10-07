@@ -30320,14 +30320,12 @@ a.u-link.u-text-hover-grey-90:hover {
 .u-header .u-logo-image-1 {max-width: 135px; max-height: 135px}
 .u-header .u-menu-1 {margin: -40px 0 22px auto}
 .u-header .u-nav-1 {font-size: 1rem; letter-spacing: 0}
-.u-header .u-nav-2 {box-shadow: 2px 2px 8px 0 rgba(128,128,128,1)}
-.u-header .u-nav-3 {font-size: 1.25rem}
-.u-header .u-nav-4 {box-shadow: 2px 2px 8px 0 rgba(128,128,128,1)} 
+.u-header .u-nav-2 {font-size: 1.25rem} 
 @media (max-width: 1199px){ .u-header .u-image-1 {width: 64px; height: 32px}
 .u-header .u-menu-1 {width: auto} }
 
 @media (max-width: 767px){ .u-header .u-image-1 {width: auto} }
-@media (max-width: 575px){ .u-header .u-image-1 {width: auto} }
+@media (max-width: 575px){ .u-header .u-image-1 {width: 64px} }
  .u-footer {background-image: none}
 .u-footer .u-sheet-1 {min-height: 120px}
 .u-footer .u-text-1 {width: 417px; margin: 49px auto} 
